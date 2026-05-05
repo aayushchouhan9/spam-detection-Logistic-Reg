@@ -155,8 +155,8 @@ python spam_detection.py
 ---
 
 ## 👨‍💻 Author
+AAYUSHMAN CHOUHAN
 
-* Your Name
 
 ---
 
